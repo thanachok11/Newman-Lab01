@@ -1,0 +1,21 @@
+{
+	"id": "076202ed-0294-469a-a18b-909c009fe599",
+	"name": "Local",
+	"values": [
+		{
+			"key": "baseURL",
+			"value": "https://jsonplaceholder.typicode.com/",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-09-13T09:48:58.492Z",
+	"_postman_exported_using": "Postman/11.12.0"
+}
